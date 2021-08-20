@@ -1,0 +1,9 @@
+package qlGaraOto;
+
+
+
+class Test {
+	public Test() {
+		System.out.println("Alpha");
+	}
+}

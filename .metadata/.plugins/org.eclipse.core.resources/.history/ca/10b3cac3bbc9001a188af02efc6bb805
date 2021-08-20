@@ -1,0 +1,12 @@
+package qlGaraOto;
+
+public class Clidlets extends Clidders{
+	public void flipper() {
+		super.flipper();
+		System.out.println("Flip a clidelet");
+		
+	}	
+	public static void main(String[] args) {
+		new Clidlets();
+		}
+	}

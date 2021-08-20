@@ -1,0 +1,8 @@
+package qlGaraOto;
+
+public class MyClass{
+	short z[][][];
+}
+
+
+ 

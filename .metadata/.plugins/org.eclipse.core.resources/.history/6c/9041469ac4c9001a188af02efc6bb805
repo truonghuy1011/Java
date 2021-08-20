@@ -1,0 +1,14 @@
+package qlGaraOto;
+
+public class MyClass{
+	private String i; 
+	public MyClass() {
+		this("1");
+	}
+	public MyClass(String i) {
+		this.i=i;
+	}
+}
+
+
+ 

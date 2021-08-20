@@ -1,0 +1,19 @@
+package qlGaraOto;
+
+import java.util.LinkedList;
+
+public class Test {
+	public static void main(String[] args) {
+		LinkedList<Integer> list=new LinkedList<Integer>();
+		list.add(9);
+		list.addFirst(10);
+//		list.add(0,7);
+//		list.add(2,5);
+//		list.addLast(11);
+//		list.remove();
+//		list.clear();
+		
+		
+		System.out.println(list);
+}
+}

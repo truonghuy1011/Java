@@ -1,0 +1,13 @@
+package qlGaraOto;
+
+
+
+public class Test {
+	
+
+	public static void main(String[] args) {
+		String greetings="Hello";
+		String s=greetings.substring(1,3);
+		System.out.println(s);
+}
+}

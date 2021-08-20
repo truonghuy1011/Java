@@ -1,0 +1,11 @@
+package qlGaraOto;
+
+public class Test {
+	public static void main(String[] args) {
+		int x=1;
+		int y=3;
+		if(x==y) {
+			System.out.println(x);
+		}
+}
+}

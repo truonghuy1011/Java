@@ -1,0 +1,7 @@
+package qlGaraOto;
+
+final class Clidlets {
+	
+	int i=0;
+		
+	}

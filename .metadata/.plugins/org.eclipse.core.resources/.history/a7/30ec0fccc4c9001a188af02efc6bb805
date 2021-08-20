@@ -1,0 +1,4 @@
+package qlGaraOto;
+
+public class Clidlets extends MyClass{
+	}

@@ -1,0 +1,9 @@
+package qlGaraOto;
+
+class Clidders{
+	public Clidders() {
+		System.out.println("B");}
+}
+
+
+ 

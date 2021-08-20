@@ -1,0 +1,9 @@
+package qlGaraOto;
+
+class Clidders{
+	private final void flipper() {
+		System.out.println("Clidder");}
+}
+
+
+ 

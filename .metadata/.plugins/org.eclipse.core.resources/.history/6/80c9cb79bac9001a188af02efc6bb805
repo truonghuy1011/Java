@@ -1,0 +1,10 @@
+package qlGaraOto;
+
+public class Base extends Test{
+	public Base() {
+		System.out.println("Base");
+	}
+	public static void main(String[] args) {
+		new Base();
+	}
+}
